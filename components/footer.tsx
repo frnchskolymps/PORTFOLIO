@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold text-foreground mb-4">Portfolio</h3>
             <p className="text-sm text-muted-foreground">
-              A showcase of my projects and work.
+              A showcase of my projects.
             </p>
           </div>
 

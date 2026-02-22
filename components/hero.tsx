@@ -15,7 +15,7 @@ export default function Hero() {
               Cheska
             </h1>
             <p className="text-xl text-muted-foreground text-text-pretty">
-              This is a portfolio website showcasing my projects and research papers.
+              Welcome to my portfolio website, where I share information about myself and my projects.
             </p>
           </div>
 
