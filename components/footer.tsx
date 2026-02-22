@@ -36,7 +36,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold text-foreground mb-4">Resources</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="https://drive.google.com/file/d/1d6NaEQnxAneKRBCsY_TuepH7sreFFvOj/view?usp=sharing" className="text-muted-foreground hover:text-foreground transition-colors">Resume</a></li>
+              <li><a href="https://drive.google.com/file/d/1-md8-1ZIpHlUC-5HCFNNScwXQaz75rPh/view?usp=sharing" className="text-muted-foreground hover:text-foreground transition-colors">Resume</a></li>
             </ul>
           </div>
         </div>

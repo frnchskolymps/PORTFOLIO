@@ -27,7 +27,7 @@ export default function About() {
     {
       name: 'Resume',
       icon: Paperclip,
-      url: 'https://drive.google.com/file/d/1d6NaEQnxAneKRBCsY_TuepH7sreFFvOj/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/1-md8-1ZIpHlUC-5HCFNNScwXQaz75rPh/view?usp=sharing',
       username: 'My Resume'
     }
   ];
