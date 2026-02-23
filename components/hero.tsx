@@ -29,7 +29,7 @@ export default function Hero() {
         </div>
         </div>
 
-        <div className="hidden md:block">
+        <div>
           <Image
             src="/images/self1.jpg"
             alt="Portfolio hero image - creative workspace"
