@@ -7,11 +7,11 @@ export default function Hero() {
       <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div className="space-y-8">
           <div className="space-y-4">
-            <h1 className="text-5xl md:text-6xl font-bold text-text-balance text-foreground">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-text-balance text-foreground">
               Hello! I am <span className="text-primary">Francheska L. Olympia</span>
             </h1>
-            <h2 className="text-3xl md:text-3xl font-semibold text-muted-foreground">But you can call me</h2>
-            <h1 className="text-5xl md:text-6xl font-bold text-text-balance text-primary">
+            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-muted-foreground">But you can call me</h2>
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-text-balance text-primary">
               Cheska
             </h1>
             <p className="text-xl text-muted-foreground text-text-pretty">
