@@ -13,7 +13,7 @@ export default function Navigation() {
   return (
     <nav className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-sm">
       <div className="max-w-5xl mx-auto px-4 py-3 sm:py-4 flex items-center justify-between">
-        <Link href="/" className="text-lg sm:text-xl md:text-2xl lg:md:text-2xl font-bold text-secondary hover:animate-float">
+        <Link href="/" className="text-lg sm:text-xl md:text-xl font-bold text-secondary hover:animate-float">
           Cheska Olympia
         </Link>
         
