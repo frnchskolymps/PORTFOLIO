@@ -27,7 +27,7 @@ export default function About() {
     {
       name: 'Resume',
       icon: Paperclip,
-      url: 'https://drive.google.com/file/d/1-md8-1ZIpHlUC-5HCFNNScwXQaz75rPh/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/1ZuWQdBc_vwG6d03h25ku429DtwTsZyXL/view?usp=sharing',
       username: 'My Resume'
     }
   ];
@@ -103,7 +103,7 @@ export default function About() {
                 <li>Web Development</li>
                 <li>Databases and Query Languages</li>
                 <li>Big Data and Cloud Computing</li>
-                <li>Machine Learning</li>
+                <li>Machine Learning and Data Science</li>
                 <li>UI/UX Design</li>
                 <li>Tools and Version Controls</li>
                 <li>Leadership and Organizational Skills</li>
